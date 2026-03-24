@@ -76,8 +76,8 @@ FROM [db_Churn].[dbo].[Customer_Data];
 
 ## 🖼️ Dashboard Previews
 
-![Executive Summary](Images/Executive_Summary.png)
-![Churner Profile](Images/Churner_Profile.png)
+![Executive Summary](Images)
+![Churner Profile](Images)
 
 ---
 
