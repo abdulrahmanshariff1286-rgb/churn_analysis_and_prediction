@@ -88,4 +88,4 @@ If you enjoyed this project, let's stay in touch! I regularly share my learning 
 🐙 **GitHub:**  abdulrahmanshariff1286-rgb
 
 📂 **Other Projects You Might Like:**
-* [E_Commerce_Data_Analytics_Project](https://github.com/abdulrahmanshariff1286-rgb/E_Commerce_Data_Analytics_Project) - 
+* [E_Commerce_Data_Analytics_Project](https://github.com/abdulrahmanshariff1286-rgb/E_Commerce_Data_Analytics_Project) - Verulam Blue Mint Retail Analytics KPI and result dashboards built to analyze and visualize retail business data.
