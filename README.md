@@ -88,4 +88,4 @@ If you enjoyed this project, let's stay in touch! I regularly share my learning 
 🐙 **GitHub:**  abdulrahmanshariff1286-rgb
 
 📂 **Other Projects You Might Like:**
-* [E](Link-To-Your-Repo) - *(Add a brief 1-sentence description here about your saved personal project!)*
+* [E_Commerce_Data_Analytics_Project](https://github.com/abdulrahmanshariff1286-rgb/E_Commerce_Data_Analytics_Project) - 
