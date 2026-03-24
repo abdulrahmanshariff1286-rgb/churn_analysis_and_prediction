@@ -74,11 +74,6 @@ FROM [db_Churn].[dbo].[Customer_Data];
 * Built an **Executive Summary** to track overall churn metrics.
 * Designed a **Churner Profile** dashboard to visually identify traits of high-risk customers for targeted marketing.
 
-## 🖼️ Dashboard Previews
-
-![Executive Summary](churn_analysis_and_prediction/Images/ExecutiveSummary.png)
-![Churner Profile](churn_analysis_and_prediction/Images/ChurnerProfile.png)
-
 ---
 
 ## 👨‍💻 About the Author
@@ -89,8 +84,8 @@ Hey, I'm **Abdul Rahman** — an engineering student based in Bangalore and an a
 
 If you enjoyed this project, let's stay in touch! I regularly share my learning journey and portfolio projects. 
 
-💼 **LinkedIn:** [Your LinkedIn Profile URL]  
+💼 **LinkedIn:** www.linkedin.com/in/abdul-rahman-56117b291 
 🐙 **GitHub:** [Your GitHub Profile URL]  
 
 📂 **Other Projects You Might Like:**
-* [AutoTrend Analytics](Link-To-Your-Repo) - *(Add a brief 1-sentence description here about your saved personal project!)*
+* [E](Link-To-Your-Repo) - *(Add a brief 1-sentence description here about your saved personal project!)*
